@@ -1,0 +1,20 @@
+body{
+  background-color: blue;
+}
+#soundcheckNashville{
+  font-family: 'Bungee Spice', cursive;
+  border:20px solid white;
+}
+
+#langhorneSlim{
+  font-family: 'Peralta', cursive;
+  border:25px dotted greenyellow;
+}
+#mollyTuttle{
+  font-family: 'Silkscreen', cursive;
+  border:30px double hotpink;
+
+}
+h3{
+  color:orange
+}
