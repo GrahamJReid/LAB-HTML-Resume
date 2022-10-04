@@ -2,7 +2,7 @@ body{
   background-color: blue;
 }
 #soundcheckNashville{
-  font-family: 'Bungee Spice', cursive;
+  font-family: 'Lobster', cursive;
   border:20px solid white;
 }
 
@@ -16,5 +16,9 @@ body{
 
 }
 h3{
-  color:orange
+  color:turquoise;
+}
+.soundcheck-title{
+
+  color:turquoise;
 }
